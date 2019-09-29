@@ -1,0 +1,19 @@
+name: brain-tumor-segmentation
+channels:
+  - pytorch
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.7
+  - pytorch
+  - torchvision
+  - matplotlib
+  - cudatoolkit
+  - jupyterlab
+  - ipython
+  - jupyter
+  - tqdm
+  - opencv
+  - hdf5storage
+  - requests
+  - tensorboard
