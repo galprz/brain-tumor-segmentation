@@ -5,7 +5,7 @@
 
 ## Intro
 This repository contains implementation of the UNet[1], Deep ResUnet[2] Hybrid ResUnet and ONet[3] models.
-We test those models performance with the dice metric on the brain_tumor_dataset (https://figshare.com/articles/brain_tumor_dataset/1512427).
+We tested those models` performance with the dice metric on the brain_tumor_dataset (https://figshare.com/articles/brain_tumor_dataset/1512427).
 
 ## Setup
 First download the code by git clone this repo:
@@ -18,7 +18,7 @@ conda end update -f environment.yml
 conda activate brain-tumor-segmentation
 ```
 ## Code structure
-The src folder contain all of the implementation code.
+The src folder contains all of the implementation code.
 + utils/ contains helpers to download unzip and visualize the data.
 + datasets.py file encapsulate the brain_tumor_dataset into pytorch datasets.
 + loss.py and metrics.py contains the loss function and the dice evaluation metric correspondingly.
