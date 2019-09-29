@@ -26,10 +26,10 @@ The src folder contains all of the implementation code.
 + trainers.py contains the pytorch trainer implementation for the experiments.
 
 ## Experiments
-The jupyter ipynb files contains all the experiments that we run to evaluate the models performance on our dataset.
-To reproduce the result we set the seed to constant value and the dataset will be downloaded automatically if you 
+The jupyter ipynb files contain all the experiments that we ran to evaluate the models` performance on our dataset.
+To reproduce the results we set the seed to constant value and the dataset will be downloaded automatically if you 
 do not have the data folder so you can just rerun those files the reproduce the results.
-## Referances
+## Referances`
 1. U-Net: Convolutional Networks for Biomedical Image Segmentation(https://arxiv.org/abs/1505.04597)
 2. Road Extraction by Deep Residual U-Net (https://arxiv.org/abs/1711.10684)
 3. Hybrid ResUnet and ONet (https://github.com/galprz/brain-tumor-segemntation/blob/master/report.pdf)
