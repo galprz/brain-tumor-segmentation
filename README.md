@@ -1,7 +1,8 @@
 # Brain tumor segmentation using deep learning
 <p align="center">
-  <img src="https://raw.githubusercontent.com/galprz/brain-tumor-segemntation/master/images/segmentations.jpg" width="600"/>
+  <img src="https://raw.githubusercontent.com/galprz/brain-tumor-segemntation/master/images/segmentations.png" width="600"/>
 </p>
+
 ## Intro
 This repository contains implementation of the UNet[1], Deep ResUnet[2] Hybrid ResUnet and ONet[3] models.
 We test those models performance with the dice metric on the brain_tumor_dataset (https://figshare.com/articles/brain_tumor_dataset/1512427).
