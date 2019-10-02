@@ -28,7 +28,7 @@ The src folder contains all of the implementation code.
 ## Experiments
 The jupyter ipynb files contain all the experiments that we ran to evaluate the models` performance on our dataset.
 To reproduce the results we set the seed to constant value and the dataset will be downloaded automatically if you 
-do not have the data folder so you can just rerun those files the reproduce the results.
+do not have the data folder so you can just rerun those files to reproduce the results.
 ## Referances
 1. U-Net: Convolutional Networks for Biomedical Image Segmentation(https://arxiv.org/abs/1505.04597)
 2. Road Extraction by Deep Residual U-Net (https://arxiv.org/abs/1711.10684)
