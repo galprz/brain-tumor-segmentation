@@ -1,4 +1,4 @@
-# Brain tumor segmentation using deep learning
+# Brain tumour segmentation using deep learning
 <p align="center">
   <img src="https://raw.githubusercontent.com/galprz/brain-tumor-segemntation/master/images/segmentations.png" width="600"/>
 </p>
